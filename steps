@@ -1,0 +1,11 @@
+copy all files to your computer
+go to directory where all files are present
+give execute permission to .sh file
+./filename.sh run the file
+curl sS https://getcomposer.org/installer | php (run the command to download composer.phar)
+php composer.phar install
+copy all .php,png,vendor directory to /var/www/html location
+cp *.php /var/www/html
+cp *.png .var/www/html
+cp -R vendor /var/www/html
+in browser pubIP/index.php to open in browser
